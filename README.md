@@ -1,7 +1,6 @@
 # response-generator
-Generate response for chatbot in recurrent neural network.
-===
 
+Generate response for chatbot in recurrent neural network.
 Multi-layer Recurrent Neural Networks (LSTM, RNN) for character-level language models in Python using Tensorflow.
 
 ## Requirements
